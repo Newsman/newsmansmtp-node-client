@@ -1,0 +1,20 @@
+{
+  "name": "nzm-smtp-client",
+  "version": "1.0.0",
+  "description": "Simple Newsman SMTP API Client with Axios ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "newsman",
+    "smtp",
+    "transactional",
+    "api"
+  ],
+  "author": "Adrian Manuca",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
